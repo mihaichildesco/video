@@ -280,6 +280,7 @@ header::after {
   }
   h1 {
     font-family: 'Patrick Hand', cursive;
+    font-size: 1rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   }
 }
